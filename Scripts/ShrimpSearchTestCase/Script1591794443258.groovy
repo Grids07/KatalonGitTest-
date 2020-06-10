@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://www.allrecipes.com/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Allrecipes  Food friends and recipe in_7df3e9/input_BROWSE_searchText'), 
-    'cake recipes')
+    'shrimp recipes')
 
 WebUI.click(findTestObject('Object Repository/Page_Allrecipes  Food friends and recipe in_7df3e9/div_Ingredient Search'))
 

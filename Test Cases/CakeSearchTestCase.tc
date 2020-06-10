@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TestingGit - Copy</name>
+   <name>CakeSearchTestCase</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>71f4ec84-c055-4a56-a741-711399e3a27e</testCaseGuid>

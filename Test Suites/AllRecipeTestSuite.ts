@@ -4,7 +4,7 @@
    <name>AllRecipeTestSuite</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
+   <mailRecipient>iclark@gaig.com;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
@@ -14,12 +14,18 @@
       <guid>be296031-170a-4157-b44e-04c001449131</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestingGit</testCaseId>
+      <testCaseId>Test Cases/ChickenSearchTestCase</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>62584c74-41b1-42f0-b1c4-88bb14c8f3e2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestingGit - Copy</testCaseId>
+      <testCaseId>Test Cases/CakeSearchTestCase</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8fb5e154-94dc-4b03-9b1d-cf4bf7ad9967</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ShrimpSearchTestCase</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
